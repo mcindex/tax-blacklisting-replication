@@ -1,0 +1,78 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: combinegraph_g
+*! family: combine
+*! date: 24 Apr 2020
+*! time: 10:31:22
+*! graph_scheme: modern_dark
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.graph1.plotregion1.plot3.style.editstyle line(color(blue)) editcopy
+// plot3 color
+
+.plotregion1.graph1.plotregion1.plot3.style.editstyle line(color(%75)) editcopy
+.plotregion1.graph1.plotregion1.plot3.style.editstyle line(width(medthick)) editcopy
+// plot3 edits
+
+.plotregion1.graph1.plotregion1.plot2.style.editstyle line(color(blue)) editcopy
+.plotregion1.graph1.plotregion1.plot2.style.editstyle line(color(%75)) editcopy
+.plotregion1.graph1.plotregion1.plot2.style.editstyle line(width(medthick)) editcopy
+// plot2 edits
+
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(size(medium)) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(fillcolor(navy)) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(fillcolor(%75)) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(linestyle(color(navy))) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(linestyle(color(%75))) editcopy
+// plot1 edits
+
+// plot1 edits
+
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(size(small)) editcopy
+// plot1 size
+
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(fillcolor(navy)) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(linestyle(color(navy))) editcopy
+// plot1 edits
+
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(linestyle(color(none))) editcopy
+// plot1 color
+
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(fillcolor(%100)) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(linestyle(color(navy))) editcopy
+.plotregion1.graph1.plotregion1.plot1.style.editstyle marker(linestyle(color(%100))) editcopy
+// plot1 edits
+
+.plotregion1.graph2.plotregion1.plot3.style.editstyle line(color(blue)) editcopy
+.plotregion1.graph2.plotregion1.plot3.style.editstyle line(color(%75)) editcopy
+.plotregion1.graph2.plotregion1.plot3.style.editstyle line(width(medthick)) editcopy
+// plot3 edits
+
+.plotregion1.graph2.plotregion1.plot1.style.editstyle marker(fillcolor(navy)) editcopy
+.plotregion1.graph2.plotregion1.plot1.style.editstyle marker(linestyle(color(navy))) editcopy
+// plot1 edits
+
+.plotregion1.graph2.plotregion1.plot2.style.editstyle line(color(blue)) editcopy
+// plot2 color
+
+.plotregion1.graph2.plotregion1.plot2.style.editstyle line(width(medthick)) editcopy
+// plot2 width
+
+.plotregion1.graph3.plotregion1.plot2.style.editstyle line(color(blue)) editcopy
+.plotregion1.graph3.plotregion1.plot2.style.editstyle line(width(medthick)) editcopy
+// plot2 edits
+
+.plotregion1.graph3.plotregion1.plot3.style.editstyle line(color(blue)) editcopy
+.plotregion1.graph3.plotregion1.plot3.style.editstyle line(width(medthick)) editcopy
+// plot3 edits
+
+.plotregion1.graph3.plotregion1.plot1.style.editstyle marker(fillcolor(navy)) editcopy
+.plotregion1.graph3.plotregion1.plot1.style.editstyle marker(linestyle(color(navy))) editcopy
+// plot1 edits
+
+
+// <end>

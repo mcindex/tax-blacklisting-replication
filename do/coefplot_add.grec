@@ -1,0 +1,87 @@
+StataFileTM:00001:01100:GREC:                          :
+00007:00007:00001:
+*! classname: bygraph_g
+*! family: by
+*! date: 26 Oct 2020
+*! time: 14:52:20
+*! graph_scheme: modern
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.legend.draw_view.setstyle, style(no)
+// legend edits
+
+.style.editstyle declared_xsize(8) editcopy
+// Graph size
+
+.plotregion1.subtitle[1].style.editstyle drawbox(no) editcopy
+// subtitle[1] draw bounding box
+
+.plotregion1.subtitle[2].style.editstyle size(small) editcopy
+// subtitle[2] size
+
+.style.editstyle boxstyle(shadestyle(color("250 250 250"))) editcopy
+.style.editstyle boxstyle(linestyle(color("250 250 250"))) editcopy
+// Graph color
+
+.plotregion1.AddTextBox added_text editor 83.33926645091694 12.57335490830637
+.plotregion1.added_text_new = 1
+.plotregion1.added_text_rec = 1
+.plotregion1.added_text[1].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.15) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[1].style.editstyle color(blue) editcopy
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Tax Transparency
+// editor text[1] edits
+
+.plotregion1.added_text[1].DragBy 0 3.128371089536137
+// editor text[1] reposition
+
+.plotregion1.AddTextBox added_text editor 54.1051779935275 12.57335490830637
+.plotregion1.added_text_new = 2
+.plotregion1.added_text_rec = 2
+.plotregion1.added_text[2].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.15) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[2].style.editstyle color(red) editcopy
+.plotregion1.added_text[2].text = {}
+.plotregion1.added_text[2].text.Arrpush Fair Taxation
+// editor text[2] edits
+
+.plotregion1.added_text[2].DragBy -.323624595469255 9.169363538295597
+// editor text[2] reposition
+
+.plotregion1.added_text[1].DragBy -.6472491909384984 -.1078748651564069
+// editor text[1] reposition
+
+.plotregion1.AddTextBox added_text editor 41.37594390507012 19.26159654800431
+.plotregion1.added_text_new = 3
+.plotregion1.added_text_rec = 3
+.plotregion1.added_text[3].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.15) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[3].style.editstyle color(green) editcopy
+.plotregion1.added_text[3].text = {}
+.plotregion1.added_text[3].text.Arrpush Anti-BEPS
+// editor text[3] edits
+
+.plotregion1.added_text[3].DragBy 0 5.825242718446606
+// editor text[3] reposition
+
+.plotregion1.AddTextBox added_text editor 19.80097087378641 18.6143473570658
+.plotregion1.added_text_new = 4
+.plotregion1.added_text_rec = 4
+.plotregion1.added_text[4].style.editstyle  angle(default) size( sztype(relative) val(3.4722) allow_pct(1)) color(black) horizontal(left) vertical(middle) margin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) linegap( sztype(relative) val(0) allow_pct(1)) drawbox(no) boxmargin( gleft( sztype(relative) val(0) allow_pct(1)) gright( sztype(relative) val(0) allow_pct(1)) gtop( sztype(relative) val(0) allow_pct(1)) gbottom( sztype(relative) val(0) allow_pct(1))) fillcolor(bluishgray) linestyle( width( sztype(relative) val(.15) allow_pct(1)) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[4].text = {}
+.plotregion1.added_text[4].text.Arrpush Intermediate Outcomes
+// editor text[4] edits
+
+.plotregion1.added_text[4].DragBy -.8629989212513494 -11.97411003236246
+// editor text[4] reposition
+
+.plotregion1.added_text[4].DragBy .5393743257820915 1.186623516720601
+// editor text[4] reposition
+
+.plotregion1.added_text[4].DragBy 0 -.2157497303128139
+// editor text[4] reposition
+
+
+// <end>

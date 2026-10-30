@@ -1,0 +1,52 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 14 Jan 2020
+*! time: 17:30:48
+*! graph_scheme: modern
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.plot1.style.editstyle area(shadestyle(color(blue))) editcopy
+.plotregion1.plot1.style.editstyle area(linestyle(color(none))) editcopy
+.plotregion1.plot1.style.editstyle area(shadestyle(color("%30"))) editcopy
+// plot1 color
+
+.plotregion1.plot1.style.editstyle area(shadestyle(color(blue))) editcopy
+.plotregion1.plot1.style.editstyle area(linestyle(color(blue))) editcopy
+.plotregion1.plot1.style.editstyle area(linestyle(color("%30"))) editcopy
+// plot1 color
+
+.plotregion1.plot1.style.editstyle area(linestyle(color(blue))) editcopy
+.plotregion1.plot1.style.editstyle area(linestyle(color("%0"))) editcopy
+// plot1 color
+
+.plotregion1.plot1.style.editstyle area(linestyle(color(blue))) editcopy
+// plot1 color
+
+.plotregion1.plot3.style.editstyle line(color(blue)) editcopy
+// plot3 color
+
+.plotregion1.plot4.style.editstyle line(color(red)) editcopy
+// plot4 color
+
+.plotregion1.plot2.style.editstyle area(shadestyle(color(red))) editcopy
+.plotregion1.plot2.style.editstyle area(linestyle(color(red))) editcopy
+.plotregion1.plot2.style.editstyle area(linestyle(color("%0"))) editcopy
+.plotregion1.plot2.style.editstyle area(shadestyle(color("%30"))) editcopy
+// plot2 color
+
+.plotregion1.AddTextBox added_text editor $midpoint $midway
+.plotregion1.added_text_new = 1
+.plotregion1.added_text_rec = 3
+.plotregion1.added_text[3].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(vthin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[3].text = {}
+.plotregion1.added_text[3].text.Arrpush p-value: $pval
+// editor text[3] edits
+
+
+// <end>

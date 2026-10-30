@@ -1,0 +1,39 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 10 Jan 2020
+*! time: 11:11:23
+*! graph_scheme: s2color
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.title.draw_view.setstyle, style(no)
+// title edits
+
+.legend.draw_view.setstyle, style(no)
+// legend edits
+
+.xaxis1.title.text = {}
+.xaxis1.title.text.Arrpush Running variable
+// title edits
+
+.plotregion1.plot3.style.editstyle line(color(blue)) editcopy
+// plot3 color
+
+.plotregion1.plot2.style.editstyle line(color(blue)) editcopy
+// plot2 color
+
+.plotregion1.plot1.style.editstyle marker(fillcolor(black)) editcopy
+.plotregion1.plot1.style.editstyle marker(linestyle(color(black))) editcopy
+// plot1 edits
+
+.style.editstyle boxstyle(shadestyle(color(white))) editcopy
+.style.editstyle boxstyle(linestyle(color(white))) editcopy
+// Graph color
+
+
+// <end>

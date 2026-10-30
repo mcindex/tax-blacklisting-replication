@@ -1,0 +1,14 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{First stage: impact of crossing each threshold on EU review of jurisdictions\label{t:select}}
+\begin{tabular}{l*{5}{c}}
+\toprule
+                    &\multicolumn{3}{c}{{\bf EU selection criteria}}&\multicolumn{2}{c}{{\bf \shortstack{Constructed\\running variables}}}\\\cmidrule(lr){2-4}\cmidrule(lr){5-6}
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}\\
+                    &\multicolumn{1}{c}{\shortstack{strength\\of ties}}&\multicolumn{1}{c}{\shortstack{financial\\activity}}&\multicolumn{1}{c}{\shortstack{stability\\factors}}&\multicolumn{1}{c}{\shortstack{distance to\\selection boundary}}&\multicolumn{1}{c}{\shortstack{stability factors\\(frontier) $ ^{\dagger} $}}\\
+\midrule
+Robust RD estimate  &       0.579   &       0.746*  &       1.191***&       1.016***&       1.001***\\
+                    &     (0.679)   &     (0.439)   &     (0.108)   &    (0.0142)   &    (0.0185)   \\
+\midrule
+Observations        &         128   &         134   &         126   &         141   &         102   \\
+                                                                                                                                                     \bottomrule \end{tabular}                                                                                                           \begin{minipage}{0.95\textwidth} \footnotesize                                                                 {\bf Notes:} Outcome is $ = 1 $ if the jurisdiction was reviewed                                      by the EU (the first stage of the fuzzy RD design). Sample: jurisdictions                                                  eligible for rule-based selection (all non-LDC jurisdictions plus                                                   Vanuatu, excluding the five jurisdictions reviewed under EU tax                                                  transparency agreements) that were assigned a score. Each column                                                     indicates a separate running variable. Robust bias-corrected local-linear estimate with robust standard error, MSE-optimal bandwidth.                                                                   \\ $ ^{*} p<0.10,  ^{**} p<0.05,  ^{***} p<0.01 $                                                   \\ $ ^{\dagger} $ = stability factors score, restricted                                                  to jurisdictions clearing the strength-of-ties and                                                    financial-activity thresholds.              \end{minipage} \end{table}

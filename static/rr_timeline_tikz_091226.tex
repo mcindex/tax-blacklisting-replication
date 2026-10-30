@@ -1,0 +1,83 @@
+% Timeline of EU selection, review and listing — revised 2026-09-14 (v4)
+% Changes vs. v3: Sep 2016 scoreboard, Nov 2016 Council criteria and Jan 2017 selection shown as separate steps
+%   (v3 said 'Sep 2016: Scoreboard released and 92 jurisdictions selected for review').
+%   Backup of v3: analysis/rr_timeline_tikz_091226_pre091426.tex in the project folder.
+% Changes vs. rr_timeline_tikz_090826.tex (v2):
+%   * axis continues past 2021 with a dotted segment and an arrow, labelled
+%     "lists revised through Feb 2026", so the picture matches Figure 3 (lists to
+%     Feb 2026) without adding events beyond the analysis window.
+% Changes vs. the submitted version (kept from v2):
+%   * stray leftover text inside the picture removed
+%   * concurrent EU measures added as small blue notes below the axis at
+%     their adoption dates, in the same stem-plus-label style as the main events.
+%   x-scale: 1 year = 2cm, so x = 2*(year-2015) + (month-1)/6
+\begin{tikzpicture}[%
+    every node/.style={
+        font=\scriptsize,
+        % Better alignment, see https://tex.stackexchange.com/questions/315075
+        text height=1ex,
+        text depth=.25ex,
+    },
+    cnote/.style={anchor=north, align=center, font=\tiny, text=blue},
+]
+% draw horizontal line: solid to end-2021, dotted continuation with an arrow
+\draw (0,0) -- (13.2,0);
+\draw[->, dotted, thick] (13.2,0) -- (14.4,0);
+\node[anchor=south east, align=right, font=\tiny] at (14.4,0.12) {lists revised\\through Feb 2026};
+
+% draw vertical lines
+\foreach \x in {0,2,...,12}{
+    \draw (\x cm,3pt) -- (\x cm,0pt);
+}
+
+% place year labels
+\node[anchor=north] at (0,0) {2015};
+\node[anchor=north] at (2,0) {2016};
+\node[anchor=north] at (4,0) {2017};
+\node[anchor=north] at (6,0) {2018};
+\node[anchor=north] at (8,0) {2019};
+\node[anchor=north] at (10,0) {2020};
+\node[anchor=north] at (12,0) {2021};
+
+% place events
+\draw (1,1) -- (1,0);
+\node[anchor=south, align=center] at (1,1) {{\bf Jun 2015}\\Initial blacklist\\ released};
+
+% 2026-09-14 (author): selection steps separated -- Sep 2016 scoreboard, Nov 2016 Council criteria, Jan 2017 selection
+% (Council conclusions 14166/16 asked the COCG to finalise the selection by January 2017; letters to the 92 went out 1 Feb 2017)
+\draw (3.3333,1.5) -- (3.3333,0);
+\node[anchor=south,align=center] at (3.3333,1.5) {{\bf Sep 2016}\\Commission\\scoreboard\\released};
+
+\draw (3.6667,-0.6) -- (3.6667,0);
+\node[anchor=north, align=center] at (3.6667,-1.2) {{\bf Nov 2016}\\Council adopts\\screening criteria};
+
+\draw (5.666666,-1.5) -- (5.6666,0);
+\node[anchor=north, align=center] at (5.6666,-2.10) {{\bf Oct 2017}\\EU asks 72 reviewed jurisdictions \\to address deficiencies};
+
+\draw (5.8333,1.5) -- (5.8333,0);
+\node[anchor=south, align=center] at (5.83333,1.5) {{\bf Dec 2017}\\New grey/ \\blacklist\\released};
+
+\fill[myGreen, fill opacity=0.5] (4.01,.07) rectangle (5.666,-.07);
+\draw[decorate,decoration={brace,amplitude=5pt}] (4.01,0.1) -- (5.666,0.1)
+    node[anchor=north,midway,above=4pt, align=center] {{\bf Jan 2017}\\92 selected,\\ Code of Conduct \\ review begins};
+
+\fill[myRed, fill opacity=0.5] (5.84,.07) rectangle (13.2,-.07);
+\draw[decorate,decoration={brace,amplitude=5pt}] (5.84,0.1) -- (13.2,0.1)
+    node[anchor=north,midway,above=4pt,align=center] {Grey and black lists\\are updated\\every few months};
+
+% ---- Concurrent EU measures: small blue notes below the axis at the dates
+%      they took effect (stem ends 0.6 above the anchor, as for Oct 2017) ----
+% ATAD applies from Jan 2019 (x=8.0)
+\draw[blue] (8.0,-0.6) -- (8.0,0);
+\node[cnote] at (8.0,-1.2) {{\bf Jan 2019}\\ATAD\\applies};
+
+% AMLD5 transposed Jan 2020 (x=10.0); DAC6 applies Jul 2020 (x=11.0): one label, two stems
+\draw[blue] (10.0,-0.6) -- (10.0,0);
+\draw[blue] (11.0,-0.6) -- (11.0,0);
+\node[cnote] at (10.5,-1.2) {{\bf Jan / Jul 2020}\\AMLD5 / DAC6\\apply};
+
+% Coordinated defensive measures apply from Jan 2021 (x=12.0); one level lower to clear the 2020 note
+\draw[blue] (12.0,-1.5) -- (12.0,0);
+\node[cnote] at (12.0,-2.1) {{\bf Jan 2021}\\Defensive\\measures apply};
+
+\end{tikzpicture}

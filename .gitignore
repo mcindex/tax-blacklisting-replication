@@ -1,0 +1,14 @@
+*.log
+*.smcl
+*.stswp
+__pycache__/
+output/_nc_.dta
+output/_rif_.dta
+output/d.csv
+output/d.do
+graphs/*
+!graphs/.gitkeep
+tables/*
+!tables/.gitkeep
+input/ITI_CITR_ct_R2.dta
+input/ITI_CITR_cit_R2.dta

@@ -1,0 +1,31 @@
+\begin{table}[htbp]\centering \caption{Balance tests on the rule-eligible sample: \emph{Euclidean distance to the selection boundary}\label{t:balanceEligDistance}} \begin{adjustbox}{width=1\textwidth} \begin{tabular}{l*{6}{c}} \toprule 
+          &Bandwidth&RD Estimator&  P-value&  Left CI& Right CI&Effective \# Obs\\
+\midrule
+{\bf EU selection indicators}&         &         &         &         &         &         \\
+Economic ties (percentile)&    10.59&   16.525&     .134&   -5.102&   38.151&       41\\
+Financial activity (percentile)&    11.20&    6.916&      .56&  -16.314&   30.146&       45\\
+Stability factors (percentile)&     8.03&  -19.485&     .208&  -49.834&   10.863&       29\\
+EU affiliates (employment)\(^{*}\)&    12.31&-12173.299&     .914&-232544.312&208197.715&       45\\
+EU affiliates (entities)\(^{*}\)&    10.44& -157.531&     .728&-1045.041&  729.979&       37\\
+EU affiliates (turnover)\(^{*}\)&     8.31&-5465.964&     .802&-48215.102&37283.173&       29\\
+Tot trade w EU (goods)\(^{*\dag\#}\)&     5.15&   -0.133&     .223&   -0.347&    0.081&       16\\
+Tot trade w EU (srvcs)\(^{*\dag\#}\)&     3.86&   -0.022&     .578&   -0.099&    0.055&       10\\
+EU FDI in country\(^{*\dagger\#}\)&     8.02&    0.018&     .796&   -0.121&    0.158&       27\\
+Country FDI in EU\(^{*\dagger\#}\)&     5.64&    0.088&     .366&   -0.103&    0.278&       18\\
+Dividends paid\(^{*\ddagger\#}\)&     7.49&    0.056&    .0348&    0.004&    0.108&       24\\
+Dividends received\(^{*\ddagger\#}\)&     4.77&    0.007& 9.96e-06&    0.004&    0.010&       15\\
+Interest paid\(^{*\ddagger\#}\)&     6.60&    0.007&     .185&   -0.003&    0.018&       21\\
+Interest received\(^{*\ddagger\#}\)&     8.82&    0.024&     .215&   -0.014&    0.063&       31\\
+Royalties paid\(^{*\ddagger\#}\)&    11.04&    0.002&     .561&   -0.004&    0.007&       35\\
+Royalties received\(^{*\ddagger\#}\)&    11.09&   -0.000&     .715&   -0.003&    0.002&       33\\
+FDI inward stock\(^{*\S}\)&     6.58&    0.003&     .994&   -0.716&    0.722&       23\\
+FDI outward stock\(^{*\S}\)&     9.52&    0.099&     .509&   -0.195&    0.394&       31\\
+Control of corruption\(^{*\P}\)&     7.52&    0.906&    .0562&   -0.024&    1.835&       29\\
+Regulatory quality\(^{*\P}\)&     8.82&    0.785&     .174&   -0.348&    1.918&       33\\
+\midrule
+{\bf Other covariates}&         &         &         &         &         &         \\
+Log(Per capita GDP) 2015&     6.18&    2.681&    .0185&    0.449&    4.912&       20\\
+CIT rate (2015)&     4.97&   -4.573&     .351&  -14.189&    5.043&        9\\
+Log(FSI) (2018)&     4.60&    1.750&    .0683&   -0.131&    3.631&       10\\
+FSI Secrecy Score (2018)&     5.25&   -0.326&     .983&  -30.938&   30.285&       10\\
+\bottomrule \end{tabular} \end{adjustbox} \begin{minipage}{0.95\textwidth} \footnotesize {\bf Notes:} Balance tests for pre-determined covariates on the sample of jurisdictions eligible for rule-based selection (all non-LDC jurisdictions plus Vanuatu, excluding the five jurisdictions reviewed under EU tax transparency agreements). Each row is a separate local linear regression discontinuity estimate of the covariate at the cutoff \citeN{calonico2014robust,calonico2018effect,calonico2019regression} with CER-optimal bandwidth; conventional estimate, p-value and 95\% CI. \\ \(^{*}\) Average over 2011--2016 \quad \(^{\dag}\) Source: Eurostat \quad \(^{\#}\) as \% of GDP \quad \(^{\ddagger}\) Source: IMF \quad \(^{\S}\) Source: UNCTAD \quad \(^{\P}\) Source: World Bank \end{minipage} \end{table}

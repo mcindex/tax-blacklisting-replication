@@ -1,0 +1,30 @@
+\begin{table}[t]\centering
+\caption{Impact of EU review on the probability of detection and rollback of harmful regimes\label{t:rev}}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{l*{4}{c}}
+\toprule
+&\multicolumn{2}{c}{(1)}&\multicolumn{2}{c}{(2)}\\
+&\multicolumn{1}{c}{Coef.}&\multicolumn{1}{c}{[95\% CI]}&\multicolumn{1}{c}{Coef.}&\multicolumn{1}{c}{[95\% CI]}\\
+\midrule
+\emph{{\bf (A) At least one regime reviewed by:}}&&&&\\
+\hspace{.4cm} EU Code of Conduct Group& 0.65*** & [0.23, 1.02]& 0.66*** & [0.25, 1.05]\\
+\hspace{.4cm} OECD Forum on Harmful Tax Practices& 0.88*** & [0.49, 1.41]& 1.08*** & [0.94, 1.43]\\
+\midrule \emph{{\bf (B) Regime reviewed and found harmful by:}}&&&&\\
+\hspace{.4cm} EU Code of Conduct Group& 0.38 & [-0.09, 0.83]& 0.27 & [-0.26, 0.74]\\
+\hspace{.4cm} OECD Forum on Harmful Tax Practices& 0.28 & [-0.23, 0.88]& 0.26 & [-0.21, 0.85]\\
+\midrule \emph{{\bf (C) Regime reviewed and rolled back after review by:}}&&&&\\
+\hspace{.4cm} EU Code of Conduct Group& 0.39* & [-0.07, 0.85]& 0.28 & [-0.25, 0.76]\\
+\hspace{.4cm} OECD Forum on Harmful Tax Practices& 0.17 & [-0.36, 0.74]& 0.33 & [-0.10, 0.91]\\
+\midrule Controls&\multicolumn{2}{c}{}&\multicolumn{2}{c}{X}\\
+Observations&\multicolumn{2}{c}{141}&\multicolumn{2}{c}{129}\\
+Avg Effective \# Obs&\multicolumn{2}{c}{ 56}&\multicolumn{2}{c}{ 42}\\
+Avg Bandwidth&\multicolumn{2}{c}{14.5}&\multicolumn{2}{c}{11.6}\\
+Max Bandwidth&\multicolumn{2}{c}{17.0}&\multicolumn{2}{c}{16.5}\\
+Min Bandwidth&\multicolumn{2}{c}{11.3}&\multicolumn{2}{c}{6.8}\\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\begin{minipage}{1\textwidth} \scriptsize
+{\bf Notes:} Fuzzy RD estimates of the effect of selection for review, with crossing the selection boundary as the instrument, on the sample of jurisdictions eligible for review (all non-LDC jurisdictions plus Vanuatu, excluding the five jurisdictions reviewed under EU tax transparency agreements), using the distance to the selection boundary as running variable. Outcomes are indicators for whether a jurisdiction had at least one preferential regime reviewed by the entity, whether at least one reviewed regime was found harmful, and whether at least one reviewed regime was rolled back, separately for the EU Code of Conduct Group (COCG) and the OECD Forum on Harmful Tax Practices (FHTP). Conventional local-linear coefficients with robust bias-corrected 95\% confidence intervals \cite{calonico2014robust}, MSE-optimal bandwidths, triangular kernel. Column (2) adds log GDP per capita in 2015. $^{*}p<0.10$, $^{**}p<0.05$, $^{***}p<0.01$ (robust $p$-values).
+\end{minipage}
+\end{table}

@@ -1,0 +1,90 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date:  5 Jul 2019
+*! time: 12:04:10
+*! graph_scheme: s2color
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.xaxis1.add_ticks 0 `"2016"', tickset(major)
+// xaxis1 edits
+
+.xaxis1.add_ticks 0.375 `"2017"', tickset(major)
+// xaxis1 edits
+
+.xaxis1.add_ticks 0.75 `"2018"', tickset(major)
+// xaxis1 edits
+
+.xaxis1.add_ticks 1.125 `"2019"', tickset(major)
+// xaxis1 edits
+
+.xaxis1.add_ticks 1.5 `"2020"', tickset(major)
+// xaxis1 edits
+
+.xaxis1.major.delete_tick 2
+// xaxis1 edits
+
+.xaxis1.major.delete_tick 1
+// xaxis1 edits
+
+.xaxis1.major.delete_tick 1
+// xaxis1 edits
+
+.xaxis1.major.delete_tick 1
+// xaxis1 edits
+
+.xaxis1.major.delete_tick 1
+.xaxis1.major.delete_tick 1
+// xaxis1 edits
+
+.xaxis1.major.num_rule_ticks = 0
+.xaxis1.edit_tick 5 1.5 `"2020"', tickset(major)
+// xaxis1 edits
+
+.xaxis1.plotregion.declare_xyline .gridline_g.new 0.28, ordinate(x) plotregion(`.xaxis1.plotregion.objkey') style(default)
+.xaxis1.plotregion._xylines_new = 1
+.xaxis1.plotregion._xylines_rec = 1
+// xaxis1 edits
+
+.xaxis1.plotregion.declare_xyline .gridline_g.new 0.71, ordinate(x) plotregion(`.xaxis1.plotregion.objkey') style(default)
+.xaxis1.plotregion._xylines_new = 2
+.xaxis1.plotregion._xylines_rec = 2
+// xaxis1 edits
+
+.style.editstyle boxstyle(shadestyle(color(white))) editcopy
+.style.editstyle boxstyle(linestyle(color(white))) editcopy
+// Graph color
+
+.plotregion1.AddTextBox added_text editor 1.447233636703017 .341163653729101
+.plotregion1.added_text_new = 1
+.plotregion1.added_text_rec = 1
+.plotregion1.added_text[1].style.editstyle  angle(default) size(medsmall) color(black) horizontal(left) vertical(middle) margin(zero) linegap(zero) drawbox(no) boxmargin(zero) fillcolor(bluishgray) linestyle( width(thin) color(black) pattern(solid) align(inside)) box_alignment(east) editcopy
+.plotregion1.added_text[1].text = {}
+.plotregion1.added_text[1].text.Arrpush Review process
+// editor text[1] edits
+
+.plotregion1.added_text[1].DragBy .0026282450215666 -.0554986659379306
+// editor text[1] reposition
+
+.plotregion1.added_text[1].DragBy .0026282450215674 .021483354556618
+// editor text[1] reposition
+
+.plotregion1.added_text[1].DragBy .0052564900431343 -.021483354556618
+// editor text[1] reposition
+
+.plotregion1.added_text[1].DragBy -.013141225107836 .0107416772783095
+// editor text[1] reposition
+
+.style.editstyle declared_xsize(6.6) editcopy
+// Graph size
+
+.plotregion1.added_text[1].DragBy -.0063128438419019 .0332569652558296
+// editor text[1] reposition
+
+
+// <end>

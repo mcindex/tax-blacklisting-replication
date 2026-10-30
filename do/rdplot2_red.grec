@@ -1,0 +1,29 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: combinegraph_g
+*! family: combine
+*! date: 24 Apr 2020
+*! time: 10:52:37
+*! graph_scheme: modern_dark
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.legend.plotregion1.key[1].view.style.editstyle marker(fillcolor(cranberry)) editcopy
+.legend.plotregion1.key[1].view.style.editstyle marker(linestyle(color(cranberry))) editcopy
+// view edits
+
+// key[2] edits
+
+// key[2] edits
+
+.legend.plotregion1.key[2].view.style.editstyle line(color(red)) editcopy
+// view color
+
+.style.editstyle declared_ysize(9) editcopy
+// Graph size
+
+
+// <end>

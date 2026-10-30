@@ -1,0 +1,261 @@
+iso3,countryname,year,ny_gnp_pcap_cd
+AFE,Africa Eastern and Southern,2010,1436.21611875348
+AFW,Africa Western and Central,2010,1546.23901740438
+ARB,Arab World,2010,5780.53792738981
+CSS,Caribbean small states,2010,12152.2456927844
+CEB,Central Europe and the Baltics,2010,12797.6414132033
+EAR,Early-demographic dividend,2010,2720.60639276158
+EAS,East Asia & Pacific,2010,7434.47325937595
+EAP,East Asia & Pacific (excluding high income),2010,3796.77561059114
+TEA,East Asia & Pacific (IDA & IBRD countries),2010,3840.69912083349
+EMU,Euro area,2010,39017.9063045777
+ECS,Europe & Central Asia,2010,24628.2425220223
+ECA,Europe & Central Asia (excluding high income),2010,5794.43685112714
+TEC,Europe & Central Asia (IDA & IBRD countries),2010,7973.56042196702
+EUU,European Union,2010,34929.1407782926
+HPC,Heavily indebted poor countries (HIPC),2010,776.306919033354
+IBD,IBRD only,2010,4221.13471828486
+IBT,IDA & IBRD total,2010,3442.99544595312
+IDB,IDA blend,2010,1432.29290451128
+IDX,IDA only,2010,833.400398554531
+IDA,IDA total,2010,1044.89334306211
+LTE,Late-demographic dividend,2010,5833.12249357179
+LCN,Latin America & Caribbean,2010,8153.17917214858
+LAC,Latin America & Caribbean (excluding high income),2010,7954.9530028196
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2010,8123.3712977849
+LDC,Least developed countries: UN classification,2010,797.712206849584
+LMY,Low & middle income,2010,3137.90125290833
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2010,4722.24756618154
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2010,2709.91425151705
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2010,2711.23363612943
+MIC,Middle income,2010,3382.06507160926
+NAC,North America,2010,48725.0769752713
+OED,OECD members,2010,35656.1611049047
+OSS,Other small states,2010,10188.1088204789
+PSS,Pacific island small states,2010,2889.1504323818
+PST,Post-demographic dividend,2010,40506.306671898
+PRE,Pre-demographic dividend,2010,1324.26178261484
+SST,Small states,2010,9700.71050514897
+SAS,South Asia,2010,1170.70869890706
+TSA,South Asia (IDA & IBRD),2010,1170.70869890706
+SSF,Sub-Saharan Africa,2010,1481.18226994286
+SSA,Sub-Saharan Africa (excluding high income),2010,1480.31072222293
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2010,1481.18226994286
+WLD,World,2010,9413.26881961815
+AFG,Afghanistan,2010,530
+ALB,Albania,2010,4430
+DZA,Algeria,2010,4870
+ASM,American Samoa,2010,
+AND,Andorra,2010,
+AGO,Angola,2010,3780
+ATG,Antigua and Barbuda,2010,14390
+ARG,Argentina,2010,9160
+ARM,Armenia,2010,3280
+ABW,Aruba,2010,23050
+AUS,Australia,2010,46900
+AUT,Austria,2010,49460
+AZE,Azerbaijan,2010,5400
+BHS,"Bahamas, The",2010,27320
+BHR,Bahrain,2010,19510
+BGD,Bangladesh,2010,780
+BRB,Barbados,2010,16220
+BLR,Belarus,2010,6150
+BEL,Belgium,2010,47110
+BLZ,Belize,2010,5060
+BEN,Benin,2010,1020
+BMU,Bermuda,2010,105750
+BTN,Bhutan,2010,2180
+BOL,Bolivia,2010,1760
+BIH,Bosnia and Herzegovina,2010,4820
+BWA,Botswana,2010,5370
+BRA,Brazil,2010,9750
+VGB,British Virgin Islands,2010,
+BRN,Brunei Darussalam,2010,35370
+BGR,Bulgaria,2010,6960
+BFA,Burkina Faso,2010,630
+BDI,Burundi,2010,200
+CPV,Cabo Verde,2010,3600
+KHM,Cambodia,2010,910
+CMR,Cameroon,2010,1450
+CAN,Canada,2010,44490
+CYM,Cayman Islands,2010,73550
+CAF,Central African Republic,2010,500
+TCD,Chad,2010,1150
+CHI,Channel Islands,2010,
+CHL,Chile,2010,10720
+CHN,China,2010,4410
+COL,Colombia,2010,5690
+COM,Comoros,2010,1450
+COD,"Congo, Dem. Rep.",2010,320
+COG,"Congo, Rep.",2010,2640
+CRI,Costa Rica,2010,7290
+CIV,Cote d'Ivoire,2010,1120
+HRV,Croatia,2010,13900
+CUB,Cuba,2010,5170
+CUW,Curacao,2010,19540
+CYP,Cyprus,2010,32210
+CZE,Czechia,2010,19420
+DNK,Denmark,2010,61290
+DJI,Djibouti,2010,
+DMA,Dominica,2010,7250
+DOM,Dominican Republic,2010,5260
+ECU,Ecuador,2010,4290
+EGY,"Egypt, Arab Rep.",2010,2200
+SLV,El Salvador,2010,2940
+GNQ,Equatorial Guinea,2010,7920
+ERI,Eritrea,2010,550
+EST,Estonia,2010,14580
+SWZ,Eswatini,2010,3260
+ETH,Ethiopia,2010,370
+FRO,Faroe Islands,2010,49050
+FJI,Fiji,2010,3450
+FIN,Finland,2010,49750
+FRA,France,2010,44040
+PYF,French Polynesia,2010,26220
+GAB,Gabon,2010,7420
+GMB,"Gambia, The",2010,830
+GEO,Georgia,2010,3220
+DEU,Germany,2010,45530
+GHA,Ghana,2010,1200
+GIB,Gibraltar,2010,
+GRC,Greece,2010,27320
+GRL,Greenland,2010,
+GRD,Grenada,2010,6610
+GUM,Guam,2010,
+GTM,Guatemala,2010,2690
+GIN,Guinea,2010,680
+GNB,Guinea-Bissau,2010,620
+GUY,Guyana,2010,4520
+HTI,Haiti,2010,1140
+HND,Honduras,2010,1730
+HKG,"Hong Kong SAR, China",2010,33620
+HUN,Hungary,2010,13250
+ISL,Iceland,2010,38480
+IND,India,2010,1210
+IDN,Indonesia,2010,2490
+IRN,"Iran, Islamic Rep.",2010,5910
+IRQ,Iraq,2010,4390
+IRL,Ireland,2010,44970
+IMN,Isle of Man,2010,72410
+ISR,Israel,2010,30770
+ITA,Italy,2010,37720
+JAM,Jamaica,2010,4490
+JPN,Japan,2010,44290
+JOR,Jordan,2010,3950
+KAZ,Kazakhstan,2010,7210
+KEN,Kenya,2010,930
+KIR,Kiribati,2010,2030
+PRK,"Korea, Dem. People's Rep.",2010,
+KOR,"Korea, Rep.",2010,23250
+XKX,Kosovo,2010,3130
+KWT,Kuwait,2010,42850
+KGZ,Kyrgyz Republic,2010,850
+LAO,Lao PDR,2010,990
+LVA,Latvia,2010,12250
+LBN,Lebanon,2010,7340
+LSO,Lesotho,2010,1270
+LBR,Liberia,2010,440
+LBY,Libya,2010,11550
+LIE,Liechtenstein,2010,
+LTU,Lithuania,2010,12430
+LUX,Luxembourg,2010,77640
+MAC,"Macao SAR, China",2010,45370
+MDG,Madagascar,2010,450
+MWI,Malawi,2010,650
+MYS,Malaysia,2010,8130
+MDV,Maldives,2010,6000
+MLI,Mali,2010,780
+MLT,Malta,2010,21440
+MHL,Marshall Islands,2010,3820
+MRT,Mauritania,2010,1550
+MUS,Mauritius,2010,8210
+MEX,Mexico,2010,9470
+FSM,"Micronesia, Fed. Sts.",2010,2740
+MDA,Moldova,2010,2380
+MCO,Monaco,2010,
+MNG,Mongolia,2010,1990
+MNE,Montenegro,2010,6920
+MAR,Morocco,2010,3190
+MOZ,Mozambique,2010,550
+MMR,Myanmar,2010,880
+NAM,Namibia,2010,4520
+NRU,Naoero,2010,5080
+NPL,Nepal,2010,530
+NLD,Netherlands,2010,54000
+NCL,New Caledonia,2010,
+NZL,New Zealand,2010,29750
+NIC,Nicaragua,2010,1490
+NER,Niger,2010,510
+NGA,Nigeria,2010,2050
+MKD,North Macedonia,2010,5010
+MNP,Northern Mariana Islands,2010,
+NOR,Norway,2010,88970
+OMN,Oman,2010,22510
+PAK,Pakistan,2010,1000
+PLW,Palau,2010,9860
+PAN,Panama,2010,7500
+PNG,Papua New Guinea,2010,1660
+PRY,Paraguay,2010,4410
+PER,Peru,2010,4400
+PHL,Philippines,2010,2310
+POL,Poland,2010,12730
+PRT,Portugal,2010,23030
+PRI,Puerto Rico (US),2010,16910
+QAT,Qatar,2010,71900
+ROU,Romania,2010,8770
+RUS,Russian Federation,2010,9980
+RWA,Rwanda,2010,580
+WSM,Samoa,2010,3430
+SMR,San Marino,2010,
+STP,Sao Tome and Principe,2010,1090
+SAU,Saudi Arabia,2010,21820
+SEN,Senegal,2010,1340
+SRB,Serbia,2010,6500
+SYC,Seychelles,2010,10160
+SLE,Sierra Leone,2010,690
+SGP,Singapore,2010,44930
+SXM,Sint Maarten (Dutch part),2010,
+SVK,Slovak Republic,2010,17370
+SVN,Slovenia,2010,24370
+SLB,Solomon Islands,2010,1600
+SOM,"Somalia, Fed. Rep.",2010,290
+ZAF,South Africa,2010,6730
+SSD,South Sudan,2010,
+ESP,Spain,2010,32060
+LKA,Sri Lanka,2010,2360
+KNA,St. Kitts and Nevis,2010,15970
+LCA,St. Lucia,2010,8240
+MAF,St. Martin (French part),2010,
+VCT,St. Vincent and the Grenadines,2010,6310
+SDN,Sudan,2010,1230
+SUR,Suriname,2010,7330
+SWE,Sweden,2010,54380
+CHE,Switzerland,2010,80400
+SYR,Syrian Arab Republic,2010,2480
+TJK,Tajikistan,2010,910
+TZA,Tanzania,2010,720
+THA,Thailand,2010,4490
+TLS,Timor-Leste,2010,2870
+TGO,Togo,2010,790
+TON,Tonga,2010,3270
+TTO,Trinidad and Tobago,2010,16590
+TUN,Tunisia,2010,4140
+TUR,Turkiye,2010,10460
+TKM,Turkmenistan,2010,3720
+TCA,Turks and Caicos Islands,2010,
+TUV,Tuvalu,2010,4460
+UGA,Uganda,2010,680
+UKR,Ukraine,2010,2990
+ARE,United Arab Emirates,2010,42380
+GBR,United Kingdom,2010,42010
+USA,United States,2010,49180
+URY,Uruguay,2010,10930
+UZB,Uzbekistan,2010,1460
+VUT,Vanuatu,2010,2580
+VEN,"Venezuela, RB",2010,11650
+VNM,Viet Nam,2010,1370
+VIR,Virgin Islands (U.S.),2010,
+PSE,West Bank and Gaza,2010,2510
+YEM,"Yemen, Rep.",2010,1040
+ZMB,Zambia,2010,1310
+ZWE,Zimbabwe,2010,640

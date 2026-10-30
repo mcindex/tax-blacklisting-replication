@@ -1,0 +1,33 @@
+key,outcome,source,frequency,period,n_jurisdictions,n_obs,mean,sd,n_jur_neverlisted,mean_neverlisted,n_jur_everlisted,mean_everlisted
+dep_bn,"Foreign-held deposits, USD bn","BIS LBS","Quarterly","2015q1--2022q1",43,1247,193.9,355.9,27,240.2,16,115.8
+ln_dep,"~~~log(deposits, USD m)","BIS LBS","Quarterly","2015q1--2022q1",43,1247,11.00,1.63,27,11.10,16,10.83
+fdi_stock,"Inward FDI stock, \% of GNI","UNCTAD","Annual","2012--2022",153,1676,64.0,80.6,98,46.4,55,95.8
+fdi_flow,"Inward FDI flow, \% of GNI","UNCTAD","Annual","2012--2022",153,1683,4.5,7.3,98,3.6,55,6.2
+scitr,"Statutory CIT rate","RSIT ITI","Annual","2010--2020",193,2038,22.6,10.3,118,25.5,75,18.1
+eatr,"Effective average tax rate","RSIT ITI","Annual","2010--2020",193,2037,19.5,8.9,118,22.0,75,15.7
+emtr,"Effective marginal tax rate","RSIT ITI","Annual","2010--2020",193,2037,12.0,6.0,118,13.6,75,9.7
+shifted,"Shifted profits booked, USD bn","\shortciteN{torslov2023missing}","Annual","2015--2021",41,287,18.8,33.3,13,34.8,28,11.4
+gov_if,"IF membership","OECD IF list","Quarterly","2016q2--2022q1",209,5016,0.46,0.50,132,0.35,77,0.65
+gov_cbcr,"CbC-MCAA signatory","OECD CbC MCAA list","Quarterly","2016q1--2022q1",209,5225,0.23,0.42,132,0.17,77,0.33
+gov_maa,"MAA convention signatory","OECD Convention status","Quarterly","2010q2--2022q1",209,10032,0.34,0.47,132,0.25,77,0.49
+gov_map,"MAP profile published","OECD MAP profiles","Quarterly","2016q3--2022q1",209,4807,0.29,0.46,132,0.23,77,0.40
+rd_taxtransp,"Tax transparency (mean of A.1--A.5)","OECD portals (A.1--A.5)","Once","May 2022",209,209,0.40,0.40,132,0.25,77,0.65
+rd_aeoi,"~~A.1 AEOI commitment","OECD AEOI portal","Once","May 2022",209,209,0.44,0.50,132,0.26,77,0.77
+rd_pereu,"~~A.2 Share of EU states with AEOI link","OECD AEOI portal","Once","May 2022",209,209,0.36,0.45,132,0.19,77,0.63
+rd_maa,"~~A.3 MAA convention","OECD Convention status","Once","Feb 2022",209,209,0.57,0.50,132,0.39,77,0.90
+rd_eoir,"~~A.4 EOIR largely compliant","OECD EOIR ratings","Once","May 2022",209,209,0.40,0.49,132,0.29,77,0.58
+rd_aeoiontrack,"~~A.5 AEOI rated On Track","OECD AEOI ratings","Once","Dec 2025",209,209,0.21,0.41,132,0.13,77,0.35
+rd_fairtax,"Fair taxation (B.1)","EU COCG, OECD FHTP","Once","Apr 2021",209,209,0.39,0.49,132,0.19,77,0.74
+rd_antibeps,"Anti-BEPS (mean of C.1--C.3)","OECD portals (C.1--C.3)","Once","May 2022",209,209,0.34,0.42,132,0.24,77,0.52
+rd_cbcr,"~~C.1 CbC-MCAA signatory","OECD CbC MCAA list","Once","May 2022",209,209,0.32,0.47,132,0.21,77,0.49
+rd_mli,"~~C.2 MLI signatory","OECD MLI signatories","Once","May 2022",209,209,0.33,0.47,132,0.23,77,0.49
+rd_map,"~~C.3 MAP profile published","OECD MAP profiles","Once","May 2022",209,209,0.38,0.49,132,0.28,77,0.56
+rd_if,"IF membership (I.1)","OECD IF list","Once","Nov 2021",209,209,0.55,0.50,132,0.37,77,0.84
+rd_gf,"Global Forum membership (I.2)","OECD Global Forum","Once","May 2022",209,209,0.65,0.48,132,0.49,77,0.91
+rd_globaldeal,"Two-pillar statement signatory","OECD statement","Once","Oct 2021",209,209,0.53,0.50,132,0.34,77,0.84
+rd_numstd,"Number of minimum standards met","OECD portals (A--C)","Once","May 2022",209,209,1.40,1.60,132,0.91,77,2.25
+rd_evergl,"Ever greylisted (I.3)","EU Council","Once","Dec 2017--Feb 2022",209,209,0.34,0.48,132,0.00,77,0.94
+rd_everbl,"Ever blacklisted (I.4)","EU Council","Once","Dec 2017--Feb 2022",209,209,0.14,0.35,132,0.00,77,0.39
+rd_everlisted,"Ever grey or blacklisted (I.5)","EU Council","Once","Dec 2017--Feb 2022",209,209,0.37,0.48,132,0.00,77,1.00
+rd_letter,"COCG deficiency letter received","EU COCG letters","Once","Oct 2017",209,209,0.34,0.48,132,0.02,77,0.91
+rd_issue,"~~Letter raised an issue","EU COCG letters","Once","Oct 2017",209,209,0.31,0.46,132,0.02,77,0.82

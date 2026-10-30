@@ -1,0 +1,210 @@
+iso3,country,aeoi_table_name,aeoi_overall_rating,aeoi_rated,aeoi_ontrack
+ABW,Aruba,Aruba,Non-Compliant,1,0
+AFG,Afghanistan,,,0,0
+AGO,Angola,,,0,0
+AIA,Anguilla,Anguilla,Partially Compliant,1,0
+ALB,Albania,Albania,Partially Compliant,1,0
+AND,Andorra,Andorra,On Track,1,1
+ARE,United Arab Emirates,United Arab Emirates,On Track,1,1
+ARG,Argentina,Argentina,Partially Compliant,1,0
+ARM,Armenia,,,0,0
+ASM,American Samoa,,,0,0
+ATG,Antigua and Barbuda,Antigua and Barbuda,Non-Compliant,1,0
+AUS,Australia,Australia,On Track,1,1
+AZE,Azerbaijan,Azerbaijan,On Track,1,1
+BDI,Burundi,,,0,0
+BEN,Benin,,,0,0
+BES,"Bonaire, Sint Eustatius and Saba",,,0,0
+BFA,Burkina Faso,,,0,0
+BGD,Bangladesh,,,0,0
+BHR,Bahrain,Bahrain,On Track,1,1
+BHS,Bahamas,Bahamas,Non-Compliant,1,0
+BIH,Bosnia and Herzegovina,,,0,0
+BLR,Belarus,,,0,0
+BLZ,Belize,Belize,Non-Compliant,1,0
+BMU,Bermuda,Bermuda,On Track,1,1
+BOL,Bolivia,,,0,0
+BRA,Brazil,Brazil,On Track,1,1
+BRB,Barbados,Barbados,On Track,1,1
+BRN,Brunei Darussalam,Brunei Darussalam,Partially Compliant,1,0
+BTN,Bhutan,,,0,0
+BVT,Bouvet Island,,,0,0
+BWA,Botswana,,,0,0
+CAF,Central African Republic,,,0,0
+CAN,Canada,Canada,On Track,1,1
+CCK,Cocos (Keeling) Islands,,,0,0
+CHE,Switzerland,Switzerland,On Track,1,1
+CHL,Chile,Chile,Non-Compliant,1,0
+CHN,China,China (People’s Republic of),On Track,1,1
+CIV,Côte d'Ivoire,,,0,0
+CMR,Cameroon,,,0,0
+COD,Dem. Rep. of the Congo,,,0,0
+COG,Congo,,,0,0
+COK,Cook Islands,Cook Islands,Non-Compliant,1,0
+COL,Colombia,Colombia,On Track,1,1
+COM,Comoros,,,0,0
+CPT,Clipperton,,,0,0
+CPV,Cabo Verde,,,0,0
+CRI,Costa Rica,Costa Rica,Non-Compliant,1,0
+CUB,Cuba,,,0,0
+CUW,Curacao,Curaçao,Non-Compliant,1,0
+CXR,Christmas Island,,,0,0
+CYM,Cayman Islands,Cayman Islands,On Track,1,1
+DJI,Djibouti,,,0,0
+DMA,Dominica,Dominica,Non-Compliant,1,0
+DOM,Dominican Republic,,,0,0
+DZA,Algeria,,,0,0
+ECU,Ecuador,Ecuador,On Track,1,1
+EGY,Egypt,,,0,0
+ERI,Eritrea,,,0,0
+ETH,Ethiopia,,,0,0
+FJI,Fiji,,,0,0
+FLK,Falkland Islands,,,0,0
+FRO,Faroe Islands,Faroe Islands,Partially Compliant,1,0
+FSM,Micronesia (Federated States of),,,0,0
+GAB,Gabon,,,0,0
+GEO,Georgia,Georgia,Not yet reviewed,1,0
+GGY,Guernsey,Guernsey,On Track,1,1
+GHA,Ghana,Ghana,Partially Compliant,1,0
+GIB,Gibraltar,Gibraltar,Partially Compliant,1,0
+GIN,Guinea,,,0,0
+GMB,Gambia,,,0,0
+GNB,Guinea-Bissau,,,0,0
+GNQ,Equatorial Guinea,,,0,0
+GRD,Grenada,Grenada,Non-Compliant,1,0
+GRL,Greenland,Greenland,On Track,1,1
+GTM,Guatemala,,,0,0
+GUM,Guam,,,0,0
+GUY,Guyana,,,0,0
+HKG,"China, Hong Kong SAR",Hong Kong (China),On Track,1,1
+HMD,Heard Island and McDonald Islands,,,0,0
+HND,Honduras,,,0,0
+HTI,Haiti,,,0,0
+IDN,Indonesia,Indonesia,On Track,1,1
+IMN,Isle of Man,Isle of Man,On Track,1,1
+IND,India,India,On Track,1,1
+IOT,British Indian Ocean Territory,,,0,0
+IRN,Iran (Islamic Republic of),,,0,0
+IRQ,Iraq,,,0,0
+ISL,Iceland,Iceland,On Track,1,1
+ISR,Israel,Israel,Partially Compliant,1,0
+JAM,Jamaica,Jamaica,Not yet reviewed,1,0
+JEY,Jersey,Jersey,On Track,1,1
+JOR,Jordan,Jordan,Not yet reviewed,1,0
+JPN,Japan,Japan,On Track,1,1
+KAZ,Kazakhstan,Kazakhstan,Non-Compliant,1,0
+KEN,Kenya,Kenya,Not yet reviewed,1,0
+KGZ,Kyrgyzstan,,,0,0
+KHM,Cambodia,,,0,0
+KIR,Kiribati,,,0,0
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,On Track,1,1
+KOR,"Korea, Republic of",Korea,On Track,1,1
+KWT,Kuwait,Kuwait,Non-Compliant,1,0
+LAB,Malaysia / Labuan Island,,,0,0
+LAO,Lao People's Dem. Rep.,,,0,0
+LBN,Lebanon,Lebanon,On Track,1,1
+LBR,Liberia,,,0,0
+LBY,Libya,,,0,0
+LCA,Saint Lucia,Saint Lucia,On Track,1,1
+LIE,Liechtenstein,Liechtenstein,On Track,1,1
+LKA,Sri Lanka,,,0,0
+LSO,Lesotho,,,0,0
+MAC,"China, Macao SAR",Macau (China),On Track,1,1
+MAR,Morocco,,,0,0
+MCO,Monaco,Monaco,On Track,1,1
+MDA,Moldova,Moldova,Not yet reviewed,1,0
+MDG,Madagascar,,,0,0
+MDV,Maldives,Maldives,Not yet reviewed,1,0
+MEX,Mexico,Mexico,Partially Compliant,1,0
+MHL,Marshall Islands,Marshall Islands,Partially Compliant,1,0
+MKD,former Yugoslav Republic of Macedonia,,,0,0
+MLI,Mali,,,0,0
+MMR,Myanmar,,,0,0
+MNE,Montenegro,Montenegro,Not yet reviewed,1,0
+MNG,Mongolia,,,0,0
+MNP,Northern Mariana Islands,,,0,0
+MOZ,Mozambique,,,0,0
+MRT,Mauritania,,,0,0
+MSR,Montserrat,Montserrat,Non-Compliant,1,0
+MUS,Mauritius,Mauritius,On Track,1,1
+MWI,Malawi,,,0,0
+MYS,Malaysia,Malaysia,On Track,1,1
+NAM,Namibia,,,0,0
+NCL,New Caledonia,New Caledonia,Partially Compliant,1,0
+NER,Niger,,,0,0
+NFK,Norfolk Island,,,0,0
+NGA,Nigeria,Nigeria,On Track,1,1
+NIC,Nicaragua,,,0,0
+NIU,Niue,Niue,On Track,1,1
+NOR,Norway,Norway,On Track,1,1
+NPL,Nepal,,,0,0
+NRU,Nauru,Nauru,On Track,1,1
+NZL,New Zealand,New Zealand,On Track,1,1
+OMN,Oman,Oman,Partially Compliant,1,0
+PAK,Pakistan,Pakistan,Partially Compliant,1,0
+PAN,Panama,Panama,Non-Compliant,1,0
+PCN,Pitcairn Islands,,,0,0
+PER,Peru,Peru,On Track,1,1
+PHL,Philippines,,,0,0
+PLW,Palau,,,0,0
+PNG,Papua New Guinea,,,0,0
+PRI,Puerto Rico,,,0,0
+PRK,"Korea, Dem. People's Rep. of",,,0,0
+PRY,Paraguay,,,0,0
+PSE,occupied Palestinian territory,,,0,0
+PYF,French Polynesia,,,0,0
+QAT,Qatar,Qatar,On Track,1,1
+RKS,Kosovo*,,,0,0
+RUS,Russian Federation,Russia,No data available,1,0
+RWA,Rwanda,,,0,0
+SAU,Saudi Arabia,Saudi Arabia,On Track,1,1
+SDN,Sudan,,,0,0
+SEN,Senegal,,,0,0
+SGP,Singapore,Singapore,On Track,1,1
+SGS,South Georgia and the South Sandwich Islands,,,0,0
+SLB,Solomon Islands,,,0,0
+SLE,Sierra Leone,,,0,0
+SLV,El Salvador,,,0,0
+SMR,San Marino,San Marino,On Track,1,1
+SOM,Somalia,,,0,0
+SPM,Saint Pierre and Miquelon,,,0,0
+SRB,Serbia,,,0,0
+SSD,South Sudan,,,0,0
+STP,Sao Tome and Principe,,,0,0
+SUR,Suriname,,,0,0
+SWZ,Swaziland,,,0,0
+SXM,Sint Maarten (Dutch part),Sint Maarten,Non-Compliant,1,0
+SYC,Seychelles,Seychelles,Non-Compliant,1,0
+SYR,Syrian Arab Republic,,,0,0
+TCA,Turks and Caicos Islands,Turks and Caicos Islands,Non-Compliant,1,0
+TCD,Chad,,,0,0
+TGO,Togo,,,0,0
+THA,Thailand,Thailand,Not yet reviewed,1,0
+TJK,Tajikistan,,,0,0
+TKL,Tokelau,,,0,0
+TKM,Turkmenistan,,,0,0
+TLS,Timor-Leste,,,0,0
+TON,Tonga,,,0,0
+TTO,Trinidad and Tobago,Trinidad and Tobago,Non-Compliant,1,0
+TUN,Tunisia,,,0,0
+TUR,Turkey,Türkiye,Partially Compliant,1,0
+TUV,Tuvalu,,,0,0
+TWN,Taiwan,,,0,0
+TZA,Tanzania,,,0,0
+UGA,Uganda,,,0,0
+UKR,Ukraine,Ukraine,Not yet reviewed,1,0
+UMI,United States Minor Outlying Islands,,,0,0
+URY,Uruguay,Uruguay,On Track,1,1
+USA,United States,,,0,0
+UZB,Uzbekistan,,,0,0
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Non-Compliant,1,0
+VGB,British Virgin Islands,British Virgin Islands,Partially Compliant,1,0
+VIR,US Virgin Islands,,,0,0
+VNM,Viet Nam,,,0,0
+VUT,Vanuatu,Vanuatu,Non-Compliant,1,0
+WLF,Wallis and Futuna Islands,,,0,0
+WSM,Samoa,Samoa,On Track,1,1
+YEM,Yemen,,,0,0
+ZAF,South Africa,South Africa,Partially Compliant,1,0
+ZMB,Zambia,,,0,0
+ZWE,Zimbabwe,,,0,0

@@ -1,0 +1,214 @@
+Country,strength_of_ties,magnitude_of_activity,stability_factors,risk_transparency,preferential_regime,no_cit,Status
+Albania,8,25.8,64.4,,,,Selected
+American Samoa ,11.7,.. ,41.8,X ,,,Selected
+Anguilla ,.. ,3.5,22.6,X ,,X,Selected
+Antigua and Barbuda ,9.9,7,31.3,X ,X ,,Selected
+Armenia ,32.7,36,59.6,X ,X ,,Selected
+Aruba ,9.3,9.5,18.8,,X ,,Selected
+Australia ,38.9,2.2,4.8,,,,Selected
+Bahamas ,4.3,7.5,44.7,X ,,X,Selected
+Bahrain ,30.2,11.3,35.6,X ,,X,Selected
+Barbados ,7.4,7,36.5,X ,X ,,Selected
+Belize ,11.1,13.9,67.3,,X ,,Selected
+Bermuda ,0.6,7.3,22.6,,,X,Selected
+Bosnia and Herzegovina ,3.1,19.8,51,X ,,,Selected
+Botswana ,25.3,21.9,27.9,X ,X ,,Selected
+Brazil ,37,3.3,55.8,X ,X ,,Selected
+British Virgin Islands ,.. ,0.5,.. ,,,X,Selected
+Cabo Verde ,12.3,21.5,47.1,X ,X ,,Selected
+Canada ,29,4.4,6.3,,,,Selected
+Cayman Islands ,1.2,1,21.6,,,X,Selected
+Chile ,45.1,14,9.1,,X ,,Selected
+China ,54.3,2,54.8,,X ,,Selected
+"China, Hong Kong SAR ",11.1,1.5,7.7,X ,X ,,Selected
+"China, Macao SAR ",59.9,7.9,21.6,X ,X ,,Selected
+Colombia ,53.7,20,57.2,,X ,,Selected
+Cook Islands ,.. ,1.5,.. ,X ,X ,,Selected
+Costa Rica ,27.8,33.8,29.8,X ,X ,,Selected
+Curacao ,1.9,37.4,.. ,X ,X ,,Selected
+Dominica ,19.8,10,38.9,X ,X ,,Selected
+Faroe Islands ,10.5,.. ,.. ,X ,,,Selected
+Fiji ,25.3,18,62.5,X ,X ,,Selected
+former Yugoslav Republic of Macedonia ,3.7,19.2,40.9,X ,,,Selected
+Georgia ,29,7.9,24.5,X ,X ,,Selected
+Greenland ,7.4,.. ,16.3,X ,,,Selected
+Grenada ,31.5,9,40.9,X ,X ,,Selected
+Guam ,9.9,.. ,41.8,X ,,,Selected
+Guernsey ,.. ,30.8,.. ,,,X,Selected
+Iceland ,13,1.3,12,,,,Selected
+India ,52.5,6.6,65.4,,X ,,Selected
+Indonesia ,55.6,11.5,65.9,X ,X ,,Selected
+Isle of Man ,1.2,31.9,.. ,,,X,Selected
+Israel ,26.5,12.6,23.6,X ,X ,,Selected
+Jamaica ,37.7,18.5,56.3,X ,X ,,Selected
+Japan ,40.7,4,15.9,,,,Selected
+Jersey ,.. ,25.3,16.3,,,X,Selected
+Jordan ,40.1,20,45.2,X ,X ,,Selected
+"Korea, Republic of ",53.1,7.9,30.3,,X ,,Selected
+Malaysia,39.5,8.6,31.7,X,X,,Selected
+Maldives,9.3,6.6,60.1,X,X,,Selected
+Mauritius,6.8,2,32.2,,X,,Selected
+Mongolia,41.4,4.6,61.5,X,,,Selected
+Montenegro,4.3,13.5,44.2,X,,,Selected
+Montserrat,..,6.5,..,,X,,Selected
+Morocco,18.5,29,49.5,X,X,,Selected
+Namibia,35.8,16.6,45.7,X,X,,Selected
+New Caledonia,38.9,14,..,X,,,Selected
+Norway,15.4,7.3,7.7,,,,Selected
+Oman,45.7,33,37,X,,,Selected
+Panama,16,17.2,53.8,X,X,,Selected
+Peru,40.1,22,67.3,X,X,,Selected
+Qatar,34,24.5,29.3,X,,,Selected
+Saint Kitts and Nevis,10.5,5.5,42.8,X,X,,Selected
+Saint Lucia,6.2,8,38.5,X,X,,Selected
+Saint Vincent and the Grenadines,10.5,6,37,X,X,,Selected
+Samoa,22.2,21.2,52.9,X,X,,Selected
+Saudi Arabia,52.5,13,46.6,X,,,Selected
+Serbia,4.9,14.3,48.1,X,,,Selected
+Seychelles,3.7,6,56.7,,X,,Selected
+Singapore,14.8,2,2.9,X,X,,Selected
+South Africa,29,7.7,45.7,,X,,Selected
+Swaziland,43.8,4,65.9,X,,,Selected
+Taiwan,58,10.5,22.6,X,X,,Selected
+Thailand,42,6.6,57.7,X,X,,Selected
+Trinidad and Tobago,36.4,17,66.3,X,X,,Selected
+Tunisia,6.8,17.6,59.1,X,X,,Selected
+Turkey,32.1,9.9,46.2,X,X,,Selected
+Turks and Caicos Islands,8,..,..,,X,X,Selected
+United Arab Emirates,30.2,15.4,19.7,X,X,,Selected
+United States,28.4,0.5,11.5,X,X,,Selected
+Uruguay,32.1,40,30.3,X,X,,Selected
+US Virgin Islands,25.3,..,31.3,X,X,,Selected
+Viet Nam,35.8,25,69.7,X,X,,Selected
+Andorra,4.3,86.8,22.6,X ,X,,EU Tax Transparency Agreement
+Liechtenstein,3.7,74.7,9.6,,X,,EU Tax Transparency Agreement
+Monaco,..,..,..,,,X,EU Tax Transparency Agreement
+San Marino,14.8,..,..,,,,EU Tax Transparency Agreement
+Switzerland,6.8,1.1,3.4,,X,,EU Tax Transparency Agreement
+Algeria ,22.2,19.9,90.4,,,,Not Selected
+Argentina ,37,11,87,,,,Not Selected
+Azerbaijan ,24.1,5.3,82.2,,,,Not Selected
+Belarus ,24.1,27.5,86.1,,,,Not Selected
+Bolivia ,50,25.8,79.8,,,,Not Selected
+Brunei Darussalam ,51.9,51.5,28.4,,,,Not Selected
+Cameroon ,37.7,37.7,89.9,,,,Not Selected
+Congo ,13.6,10.6,90.9,,,,Not Selected
+Côte d'Ivoire ,17.3,17.2,70.7,,,,Not Selected
+Cuba ,82.1,.. ,92.8,,,,Not Selected
+Dominican Republic ,36.4,35,76.9,,,,Not Selected
+Ecuador ,70.4,35.1,85.1,,,,Not Selected
+Egypt ,32.7,20.9,75,,,,Not Selected
+El Salvador ,87.7,36.4,56.7,,,,Not Selected
+Falkland Islands ,.. ,100,..,,,,Not Selected
+French Polynesia ,44.4,50.5,..,,,,Not Selected
+Gabon ,26.5,45.5,74,,,,Not Selected
+Ghana ,30.9,41.5,49,,,,Not Selected
+Gibraltar ,.. ,75.5,..,,,,Not Selected
+Guatemala ,78.4,40.4,71.6,,,,Not Selected
+Guyana ,20.4,3.3,73.1,,,,Not Selected
+Honduras ,35.2,31.8,76.4,,,,Not Selected
+Iran (Islamic Republic of) ,61.7,30.5,95.2,,,,Not Selected
+Iraq ,62.3,43,94.2,,,,Not Selected
+Kazakhstan ,30.2,6,74,,,,Not Selected
+Kenya ,27.2,25.8,83.7,,,,Not Selected
+"Korea, Dem. People's Rep. of ",50,78.5,94.7,,,,Not Selected
+Kosovo* ,.. ,62.9,60.6,,,,Not Selected
+Kuwait ,65.4,13.2,51.4,,,,Not Selected
+Kyrgyzstan ,59.3,28,88.5,,,,Not Selected
+Lebanon ,28.4,12.5,86.5,,,,Not Selected
+Libya ,11.1,17,99.5,,,,Not Selected
+Marshall Islands ,0.6,2,82.2,,,,Not Selected
+Mexico ,45.1,8.5,73.6,,,,Not Selected
+Micronesia (Federated States of) ,63.6,19.9,86.5,,,,Not Selected
+Moldova ,9.3,28.5,79.3,,,,Not Selected
+Nauru ,.. ,22,91.3,,,,Not Selected
+New Zealand ,74.1,9.9,1,,,,Not Selected
+Nicaragua ,16.7,30.5,80.8,,,,Not Selected
+Nigeria ,57.4,16.6,92.8,,,,Not Selected
+Niue ,.. ,81.5,..,,,,Not Selected
+Northern Mariana Islands ,75.9,91,..,,,,Not Selected
+occupied Palestinian territory ,.. ,62.5,64.9,,,,Not Selected
+Pakistan ,56.8,35.5,78.4,,,,Not Selected
+Palau ,63.6,24,77.9,,,,Not Selected
+Papua New Guinea ,22.2,15.9,84.6,,,,Not Selected
+Paraguay ,69.1,26.5,86.1,,,,Not Selected
+Philippines ,78.4,17.2,60.1,,,,Not Selected
+Russian Federation ,35.2,7.5,80.3,,,,Not Selected
+Sint Maarten (Dutch part) ,.. ,70.5,..,,,,Not Selected
+Sri Lanka ,69.8,51.5,53.4,,,,Not Selected
+Suriname ,19.1,48.3,70.2,,,,Not Selected
+Syrian Arab Republic ,87,28.5,97.6,,,,Not Selected
+Tajikistan ,47.5,29.1,85.6,,,,Not Selected
+Tonga ,95.1,24.5,64.9,,,,Not Selected
+Turkmenistan ,59.3,32.5,98.1,,,,Not Selected
+Ukraine ,13.6,12.1,85.1,,,,Not Selected
+Uzbekistan ,54.9,57.5,96.6,,,,Not Selected
+Venezuela (Bolivarian Republic of) ,58.6,23.8,97.1,,,,Not Selected
+Zimbabwe ,22.8,51.5,97.6,,,,Not Selected
+Åland Islands ,.. ,.. ,..,,,,No Data
+"Bonaire, Sint Eustatius and Saba ",.. ,.. ,..,,,,No Data
+Bouvet Island ,.. ,.. ,..,,,,No Data
+British Indian Ocean Territory ,.. ,.. ,..,,,,No Data
+Christmas Island ,.. ,.. ,..,,,,No Data
+Clipperton ,.. ,.. ,..,,,,No Data
+Cocos (Keeling) Islands ,.. ,.. ,..,,,,No Data
+Heard Island and McDonald Islands ,.. ,.. ,..,,,,No Data
+Malaysia / Labuan Island ,.. ,.. ,..,,,,No Data
+Norfolk Island ,.. ,.. ,..,,,,No Data
+Pitcairn Islands ,.. ,.. ,..,,,,No Data
+Puerto Rico ,.. ,.. ,30.8,,,,No Data
+"Saint Helena, Ascension and Tristan da Cunha ",.. ,.. ,..,,,,No Data
+Saint Pierre and Miquelon ,.. ,.. ,..,,,,No Data
+South Georgia and the South Sandwich Islands ,.. ,.. ,..,,,,No Data
+Tokelau ,.. ,.. ,..,,,,No Data
+United States Minor Outlying Islands ,.. ,.. ,..,,,,No Data
+Vatican City State ,.. ,.. ,..,,,,No Data
+Wallis and Futuna Islands ,.. ,.. ,..,,,,No Data
+Afghanistan ,45.1,64.2,93.8,,,,LDC
+Angola ,25.9,11.9,96.6,,,,LDC
+Bangladesh ,58,56,81.7,,,,LDC
+Benin ,39.5,41.1,76,,,,LDC
+Bhutan ,90.7,68.9,84.6,,,,LDC
+Burkina Faso ,24.7,37.7,63,,,,LDC
+Burundi ,60.5,82.1,90.4,,,,LDC
+Cambodia ,30.2,22.5,87.5,,,,LDC
+Central African Republic ,46.9,59,94.2,,,,LDC
+Chad ,80.9,41.5,91.8,,,,LDC
+Comoros ,12.3,83,88.9,,,,LDC
+Dem. Rep. of the Congo ,66.7,10.6,93.3,,,,LDC
+Djibouti ,8.6,19,68.8,,,,LDC
+Equatorial Guinea ,19.1,23,..,,,,LDC
+Eritrea ,43.2,69.5,99,,,,LDC
+Ethiopia ,56.2,60.5,83.7,,,,LDC
+Gambia ,9.9,49,71.2,,,,LDC
+Guinea ,7.4,45.7,87.5,,,,LDC
+Guinea-Bissau ,36.4,39.7,97.1,,,,LDC
+Haiti ,90.1,21.9,92.3,,,,LDC
+Kiribati ,42.6,50.3,82.7,,,,LDC
+Lao People's Dem. Rep. ,87.7,55,78.8,,,,LDC
+Lesotho ,51.2,17.9,64.4,,,,LDC
+Liberia ,2.5,2,77.4,,,,LDC
+Madagascar ,38.3,17.9,77.9,,,,LDC
+Malawi ,48.1,28.5,74.5,,,,LDC
+Mali ,21.6,31.8,72.6,,,,LDC
+Mauritania ,12.3,19.5,81.7,,,,LDC
+Mozambique ,14.2,16,72.1,,,,LDC
+Myanmar ,62.3,18.5,93.8,,,,LDC
+Nepal ,53.7,83.5,79.3,,,,LDC
+Niger ,41.4,15.2,71.6,,,,LDC
+Rwanda ,82.7,22.5,41.3,,,,LDC
+Sao Tome and Principe ,17.3,14.5,74.5,,,,LDC
+Senegal ,13,21.9,53.8,,,,LDC
+Sierra Leone ,42.6,10.6,84.1,,,,LDC
+Solomon Islands ,58,20.5,88,,,,LDC
+Somalia ,63.6,29,99.5,,,,LDC
+South Sudan ,100,.. ,99,,,,LDC
+Sudan ,63,25.8,96.2,,,,LDC
+Tanzania ,34.6,47.5,77.4,,,,LDC
+Timor-Leste ,74.7,64.5,80.3,,,,LDC
+Togo ,3.1,14.6,83.2,,,,LDC
+Tuvalu ,17.9,32.5,80.8,,,,LDC
+Uganda ,32.1,43,88,,,,LDC
+Vanuatu ,17.9,28,59.6,,,,LDC
+Yemen ,60.5,14.6,98.1,,,,LDC
+Zambia ,39.5,27.8,67.8,,,,LDC

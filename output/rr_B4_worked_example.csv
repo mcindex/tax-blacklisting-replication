@@ -1,0 +1,5 @@
+country,iso3,x,y,z,distance_homi,selected,status
+Cayman Islands,CYM,1.2,1,21.6,39,1,Selected
+Viet Nam,VNM,35.799999,25,69.699997,.30000305,1,Selected
+Côte d'Ivoire,CIV,17.299999,17.200001,70.699997,-.69999695,0,Not Selected
+Russian Federation,RUS,35.200001,7.5,80.300003,-10.300003,0,Not Selected

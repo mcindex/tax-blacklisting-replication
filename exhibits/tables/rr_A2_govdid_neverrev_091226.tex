@@ -1,0 +1,27 @@
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{l*{5}{c}}
+\toprule
+ & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)} & \multicolumn{1}{c}{(5)} \\
+ & \multicolumn{1}{c}{\shortstack{Reviewed \\ Bandwidth \\ $|d| \leq 20$}} & \multicolumn{1}{c}{\shortstack{Greylisted \\ Full sample}} & \multicolumn{1}{c}{\shortstack{Greylisted \\ Bandwidth \\ $|d| \leq 20$}} & \multicolumn{1}{c}{\shortstack{Blacklisted \\ Full sample}} & \multicolumn{1}{c}{\shortstack{Blacklisted \\ Bandwidth \\ $|d| \leq 20$}} \\
+\midrule
+\multicolumn{6}{l}{\emph{Average treatment effect on the treated (controls: jurisdictions never reviewed)}} \\
+(1) IF membership & 0.212*** & 0.275*** & 0.220*** & 0.254*** & 0.231* \\
+ & (0.069) & (0.055) & (0.066) & (0.082) & (0.122) \\
+(2) CbC-MCAA signature & 0.120** & 0.176*** & 0.151*** & 0.189*** & 0.179** \\
+ & (0.051) & (0.041) & (0.055) & (0.063) & (0.089) \\
+(3) MAA convention signature & 0.014 & 0.123*** & 0.119* & 0.072 & 0.029 \\
+ & (0.053) & (0.046) & (0.064) & (0.055) & (0.079) \\
+(4) MAP profile publication & 0.159** & 0.184*** & 0.118* & 0.190*** & 0.105 \\
+ & (0.077) & (0.050) & (0.070) & (0.071) & (0.099) \\
+\midrule
+\multicolumn{6}{l}{\emph{Average pre-treatment event-study coefficient (window) $=0$, $p$-value}} \\
+\hspace{.4cm} Outcome (1) & 0.085 & 0.000 & 0.030 & 0.042 & 0.521 \\
+\hspace{.4cm} Outcome (2) & 0.009 & 0.159 & 0.341 & 0.912 & 0.708 \\
+\hspace{.4cm} Outcome (3) & 0.486 & 0.159 & 0.253 & 0.007 & 0.163 \\
+\hspace{.4cm} Outcome (4) & 0.206 & 0.183 & 0.647 & 0.606 & 0.907 \\
+\midrule
+Treated jurisdictions & 43 & 72 & 34 & 30 & 14 \\
+Control jurisdictions & 61 & 116 & 60 & 117 & 61 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}

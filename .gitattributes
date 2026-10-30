@@ -1,0 +1,2 @@
+# Store every file byte for byte (data, exhibits and code), with no line-ending conversion
+* -text

@@ -1,0 +1,29 @@
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{l*{8}{c}}
+\toprule
+ & \multicolumn{2}{c}{Reviewed} & \multicolumn{3}{c}{Greylisted} & \multicolumn{3}{c}{Blacklisted} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-6}\cmidrule(lr){7-9}
+ & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)} & \multicolumn{1}{c}{(5)} & \multicolumn{1}{c}{(6)} & \multicolumn{1}{c}{(7)} & \multicolumn{1}{c}{(8)} \\
+ & \multicolumn{1}{c}{\shortstack{Full \\ sample}} & \multicolumn{1}{c}{\shortstack{Bandwidth \\ $|d| \leq 20$}} & \multicolumn{1}{c}{\shortstack{Full \\ sample}} & \multicolumn{1}{c}{\shortstack{Top third \\ of score}} & \multicolumn{1}{c}{\shortstack{Tax \\ havens}} & \multicolumn{1}{c}{\shortstack{Full \\ sample}} & \multicolumn{1}{c}{\shortstack{Top third \\ of score}} & \multicolumn{1}{c}{\shortstack{Tax \\ havens}} \\
+\midrule
+\multicolumn{9}{l}{\emph{Average treatment effect on the treated}} \\
+(1) IF membership & 0.286*** & 0.206*** & 0.261*** & 0.350*** & 0.106 & 0.097 & 0.079 & 0.063 \\
+ & (0.048) & (0.075) & (0.058) & (0.063) & (0.101) & (0.087) & (0.107) & (0.108) \\
+(2) CbC-MCAA signature & 0.142*** & 0.072 & 0.132** & 0.239*** & 0.112 & 0.083 & 0.136 & 0.076 \\
+ & (0.044) & (0.070) & (0.055) & (0.052) & (0.094) & (0.066) & (0.089) & (0.099) \\
+(3) MAA convention signature & 0.071* & -0.000 & 0.181*** & 0.194*** & 0.095 & 0.011 & -0.020 & 0.047 \\
+ & (0.043) & (0.066) & (0.045) & (0.059) & (0.058) & (0.065) & (0.082) & (0.089) \\
+(4) MAP profile publication & 0.189*** & 0.065 & 0.139* & 0.285*** & 0.133 & 0.093 & 0.138 & 0.073 \\
+ & (0.061) & (0.088) & (0.072) & (0.062) & (0.112) & (0.086) & (0.099) & (0.106) \\
+\midrule
+\multicolumn{9}{l}{\emph{Average pre-treatment event-study coefficient (window) $=0$, $p$-value}} \\
+\hspace{.4cm} Outcome (1) & 0.072 & 0.200 & 0.093 & 0.155 & 0.626 & 0.458 & 0.387 & 0.385 \\
+\hspace{.4cm} Outcome (2) & 0.003 & 0.024 & 0.459 & 0.985 & 0.843 & 0.107 & 0.481 & 0.236 \\
+\hspace{.4cm} Outcome (3) & 0.011 & 0.478 & 0.833 & 0.951 & 0.100 & 0.021 & 0.018 & 0.012 \\
+\hspace{.4cm} Outcome (4) & 0.716 & 0.228 & 0.208 & 0.620 & 0.994 & 0.000 & 0.001 & 0.040 \\
+\midrule
+Treated jurisdictions & 92 & 43 & 71 & 48 & 34 & 30 & 21 & 18 \\
+Control jurisdictions & 70 & 35 & 21 & 14 & 9 & 62 & 41 & 25 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
