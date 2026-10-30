@@ -11,15 +11,15 @@ blacklisting", *International Tax and Public Finance* (2026).
 
 - data the author compiled or coded from public documents, including `input/committment_data.xlsx`
   (coding of the EU commitment letters), `input/reviewed_list.xlsx`, `input/EU_2015_blacklist.xlsx`,
-  `input/EU_BLGL_050322.xlsx`, `input/EU_BLGL_090926.xlsx`, `input/eu_scoreboard_final.csv` and
-  `input/eu_states.xlsx`;
+  `input/EU_BLGL_050322.xlsx`, `input/EU_BLGL_090926.xlsx` and `input/eu_scoreboard_final.csv`;
 - the derived datasets in `output/`, to the extent they are the author's work (see below);
 - the exhibits in `exhibits/` and `static/`, and the documentation (`README.md`).
 
 ## Third-party data: the provider's terms
 
 Data obtained from other providers are redistributed for replication only and remain subject to
-their original terms of use: the EU Council documents in `input/updated_bl/`, the OECD, IMF,
+their original terms of use: the EU Council documents in `input/updated_bl/`, the list of EU member
+states in `input/eu_states.xlsx`, the OECD, IMF,
 Eurostat and UNCTAD files, the Tørsløv, Wier and Zucman missing-profits data, and the tax-haven lists of
 Johannesen and Zucman (2014) and Garcia-Bernardo et al. (2017). The derived datasets in `output/`
 contain values from these sources and from the Tax Justice Network, the RSIT ITI database, the BIS and
